@@ -1,4 +1,4 @@
-This project is an executive-level HR analytics dashboard developed in Power BI to monitor key workforce metrics and provide actionable insights for leadership decision-making.
+# This project is an executive-level HR analytics dashboard developed in Power BI to monitor key workforce metrics and provide actionable insights for leadership decision-making.
 
 1. Key Features
 
